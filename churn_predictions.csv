@@ -1,0 +1,4 @@
+Age,Tenure_Months,Monthly_Charges,Support_Calls,Contract,Predicted_Churn,Churn_Probability
+23,4,900,6,Monthly,1,99.11
+45,48,1700,1,Yearly,0,10.61
+30,10,1200,4,Monthly,1,98.94
